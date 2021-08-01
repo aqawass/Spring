@@ -13,8 +13,8 @@ public class MainApp {
 		footaball.start();
 		context.close();
 		
-//		Sport foSport = new Vollyball();
-//		foSport.start();
+		Sport foSport = new Vollyball();
+		foSport.start();
 		
 		/*
 		 * Football football = new Football(); 
